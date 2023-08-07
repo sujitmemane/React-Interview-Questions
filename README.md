@@ -2,6 +2,8 @@
 
 # 🚀 Welcome to the React Interview Questions repository! 🤓
 
+VISITOR COUNT : ![Visitor Count](https://profile-counter.glitch.me/{sujitmemane}/count.svg)
+
 Prepare for success in your React interviews with this collection of comprehensive questions and answers. Contribute your own questions and join the community in mastering React! 👨‍💻👩‍💻 Let's level up together! 🚀💪
 
 ## REACT INTERVIEW QUESTIONS
